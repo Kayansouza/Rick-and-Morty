@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Jogo da memoria",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
